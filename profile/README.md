@@ -15,7 +15,7 @@
 
 我们是一群热衷于云原生消息队列的开源爱好者，曾经见证并应对过消息队列基础设施在大型互联网公司和云计算公司的挑战。现在我们希望与广大开发者共同探索，以云原生技术为基础，重新塑造这一关键领域，探索云原生消息队列的更多可能性。
 
-我们将于 11.4 号在由 AutoMQ 和 InfoQ 共同主办的《[Apache Kafka × RocketMQ 云原生创新论坛](https://mp.weixin.qq.com/s/bU04iDeb10hVxofQsgWQDg)》上重磅开源两个面向云原生重新架构的两款开源产品，欢迎大家报名参加，来现场与 KubeBlocks 创始人，LVS 作者和 RocketMQ 作者一同探讨云原生时代带来的种种变化：
+我们将于 11.4 号在由 AutoMQ 和 InfoQ 共同主办的《[Apache Kafka × RocketMQ 云原生创新论坛](https://mp.weixin.qq.com/s/bU04iDeb10hVxofQsgWQDg)》上重磅开源两款面向云原生重新设计的产品 AutoMQ for Apache Kafka 和 Apache RocketMQ，欢迎大家报名参加，来现场与 KubeBlocks 创始人，LVS 作者和 RocketMQ 作者一同探讨云原生时代带来的种种变化：
 
 * Cloud Host 与 Cloud Native 最大的区别是什么？
 * 分布式的存储系统有机会利用廉价的竞价实例吗？
