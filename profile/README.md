@@ -23,3 +23,9 @@
 * 在云上，存算分离的最佳实践是什么？
 * Kafka 和 RocketMQ 是否能充分撬动云的弹性能力？
 * ...
+
+### AutoMQ for Apache Kafka
+敬请期待
+
+### AutoMQ for Apache RocketMQ
+敬请期待
