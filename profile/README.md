@@ -17,7 +17,7 @@
 
 我们将于 11.4 号在由 AutoMQ 和 InfoQ 共同主办的《[Apache Kafka × RocketMQ 云原生创新论坛](https://mp.weixin.qq.com/s/bU04iDeb10hVxofQsgWQDg)》上重磅开源两款面向云原生重新设计的产品 AutoMQ for Apache Kafka 和 Apache RocketMQ，欢迎大家报名参加，来现场与 KubeBlocks 创始人，LVS 作者和 RocketMQ 作者一同探讨云原生时代带来的种种变化：
 
-* Cloud Host 与 Cloud Native 最大的区别是什么？
+* Cloud Hosted 与 Cloud Native 最大的区别是什么？
 * 分布式的存储系统有机会利用廉价的竞价实例吗？
 * 云上块存储 EBS 自带三副本，对象存储有 11 个 9 的可靠性，分布式存储系统还需要依靠副本机制来解决可靠性问题吗？
 * 在云上，存算分离的最佳实践是什么？
