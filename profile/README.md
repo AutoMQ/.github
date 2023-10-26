@@ -29,3 +29,8 @@
 
 ### AutoMQ for Apache RocketMQ
 敬请期待
+
+欢迎添加 AutoMQ 小助手，加入我们的技术交流群，与技术达人们交流经验，分享见解，共同探讨技术前沿。
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AutoMQ/.github/main/profile/image.png" width="572.5" height="231.5" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
+</p>
