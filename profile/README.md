@@ -25,10 +25,10 @@
 * ...
 
 ### AutoMQ for Kafka
-敬请期待
+https://github.com/AutoMQ/automq-for-kafka
 
 ### AutoMQ for RocketMQ
-敬请期待
+https://github.com/AutoMQ/automq-for-rocketmq
 
 欢迎添加 AutoMQ 小助手，加入我们的技术交流群，与技术达人们交流经验，分享见解，共同探讨技术前沿。
 <p align="center">
