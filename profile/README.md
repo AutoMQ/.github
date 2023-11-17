@@ -13,17 +13,21 @@
   <img src="https://raw.githubusercontent.com/AutoMQ/.github/main/profile/automq_logo.png" width="200" height="48" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
 </p>
 
-我们是一群热衷于云原生消息队列的开源爱好者，曾经见证并应对过消息队列基础设施在大型互联网公司和云计算公司的挑战。现在我们希望与广大开发者共同探索，以云原生技术为基础，重新塑造这一关键领域，探索云原生消息队列的更多可能性。
+We are a group of open-source enthusiasts who are passionate about cloud-native message queues. We have witnessed and tackled the challenges of message queue infrastructure in large internet and cloud computing companies. Now we hope to explore with the broad developer community, based on cloud-native technology, to reshape this key area and explore more possibilities of cloud-native message queues.
 
-我们于 11.4 号在由 AutoMQ 和 InfoQ 共同主办的《[Apache Kafka × RocketMQ 云原生创新论坛](https://mp.weixin.qq.com/s/o2xn9o7JuQis16z2FAOP1Q)》上重磅开源了两款面向云原生重新设计的产品 AutoMQ for Kafka 和 AutoMQ for RocketMQ。
+Recently, we open-sourced two cloud-native projects: AutoMQ for Kafka and AutoMQ for RocketMQ.
+* [AutoMQ Kafka](https://github.com/AutoMQ/automq-for-kafka): A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%.
+* [AutoMQ RocketMQ](https://github.com/AutoMQ/automq-for-rocketmq): A cloud native implementation for Apache RocketMQ 5.0.
 
-### AutoMQ for Kafka
-https://github.com/AutoMQ/automq-for-kafka
+There are some awesome technical advantages of our cloud-native solution:
+* 🍿 100% protocol compatible with Apache Kafka and RocketMQ.
+* 🌈 Supports minute-level elasticity, built-in elasticity, and continuous traffic rebalancing components.
+* 🚀 Second-level partition migration without data duplication.
+* 🧙 Stateless Broker, offloading data to S3, enabling computation using Spot instances. 
 
-### AutoMQ for RocketMQ
-https://github.com/AutoMQ/automq-for-rocketmq
+Welcome to scan the QR code to join our technical discussion group, where you can exchange experiences with tech experts, share insights, and collectively explore the forefront of technology.
 
-欢迎扫码加入我们的技术交流群，与技术达人们交流经验，分享见解，共同探讨技术前沿。
+(扫码加入 AutoMQ 中文社区)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AutoMQ/.github/main/profile/社区二维码.png" width="400" height="400" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
+  <img src="https://raw.githubusercontent.com/AutoMQ/.github/main/profile/社区二维码.png" width="200" height="200" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
 </p>
