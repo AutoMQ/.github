@@ -10,7 +10,7 @@
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AutoMQ/.github/main/profile/automq_logo.png" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
+  <img src="https://raw.githubusercontent.com/AutoMQ/.github/main/profile/automq_logo.svg" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
 </p>
 
 We are a group of open-source enthusiasts who are passionate about cloud-native message queues. We have witnessed and tackled the challenges of message queue infrastructure in large internet and cloud computing companies. Now we hope to explore with the broad developer community, based on cloud-native technology, to reshape this key area and explore more possibilities of cloud-native message queues.
