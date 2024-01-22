@@ -10,7 +10,7 @@
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AutoMQ/.github/main/profile/automq_logo.svg" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
+  <img src="https://image.automq.com/resource/profile/automq_logo.svg" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
 </p>
 
 We are a group of open-source enthusiasts who are passionate about cloud-native message queues. We have witnessed and tackled the challenges of message queue infrastructure in large internet and cloud computing companies. Now we hope to explore with the broad developer community, based on cloud-native technology, to reshape this key area and explore more possibilities of cloud-native message queues.
@@ -29,5 +29,5 @@ Welcome to scan the QR code to join our technical discussion group, where you ca
 
 (扫码加入 AutoMQ 中文社区)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AutoMQ/.github/main/profile/社区二维码.png" width="200" height="200" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
+  <img src="https://image.automq.com/resource/profile/community-qr.png" width="200" height="200" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
 </p>
