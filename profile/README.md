@@ -28,6 +28,7 @@ There are some awesome technical advantages of our cloud-native solution:
 Welcome to scan the QR code to join our technical discussion group, where you can exchange experiences with tech experts, share insights, and collectively explore the forefront of technology.
 
 (扫码加入 AutoMQ 中文社区)
+
 <p align="center">
-  <img src="https://image.automq.com/resource/profile/community-qr.png" width="200" height="200" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
+  <img src="https://image.automq.com/20240123bot/d2pVkN.png" width="200" height="200" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
 </p>
