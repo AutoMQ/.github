@@ -10,7 +10,17 @@
 -->
 
 <p align="center">
-  <img src="https://image.automq.com/resource/profile/automq_logo.svg" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
+  <picture>
+    <source
+      srcset="https://image.automq.com/20240313bot/white-automq-logo.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://image.automq.com/resource/profile/automq_logo.svg"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://image.automq.com/resource/profile/automq_logo.svg" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
+  </picture>
 </p>
 
 We are a group of open-source enthusiasts who are passionate about cloud-native message queues. We have witnessed and tackled the challenges of message queue infrastructure in large internet and cloud computing companies. Now we hope to explore with the broad developer community, based on cloud-native technology, to reshape this key area and explore more possibilities of cloud-native message queues.
@@ -30,5 +40,15 @@ Welcome to scan the QR code to join our technical discussion group, where you ca
 (扫码加入 AutoMQ 中文社区)
 
 <p align="center">
-  <img src="https://image.automq.com/20240123bot/d2pVkN.png" width="200" height="200" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
+  <picture>
+    <source
+      srcset="https://image.automq.com/20240313bot/vZTLLr.png"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://image.automq.com/20240123bot/d2pVkN.png"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://image.automq.com/20240123bot/d2pVkN.png" height="200" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
+  </picture>
 </p>
