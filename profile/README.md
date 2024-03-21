@@ -23,7 +23,7 @@
   </picture>
 </p>
 
-We are a group of open-source enthusiasts who are passionate about cloud-native message queues. We have witnessed and tackled the challenges of message queue infrastructure in large internet and cloud computing companies. Now we hope to explore with the broad developer community, based on cloud-native technology, to reshape this key area and explore more possibilities of cloud-native message queues.
+We are a group of open-source enthusiasts who are passionate about cloud-native messaging and streaming services. We have witnessed and tackled the challenges of messaging and streaming infrastructure in large Internet and cloud computing companies. Now we hope to explore with the broad developer community, based on cloud-native technology, to reshape this key area and explore more possibilities of cloud-native messaging and streaming services.
 
 Recently, we open-sourced two cloud-native projects: AutoMQ for Kafka and AutoMQ for RocketMQ.
 * [AutoMQ Kafka](https://github.com/AutoMQ/automq-for-kafka): A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%.
