@@ -37,7 +37,7 @@
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/automq)](https://www.linkedin.com/company/automq)
-[![](https://img.shields.io/badge/-%20Wechat%20-red?style=social&logo=discourse)](docs/images/automq-wechat.png)
+[![](https://img.shields.io/badge/-%20Wechat%20-red?style=social&logo=discourse)](https://image.automq.com/20240123bot/d2pVkN.png)
 [![](https://badgen.net/badge/Slack/Join%20AutoMQ/0abd59?icon=slack)](https://join.slack.com/t/automq/shared_invite/zt-29h17vye9-thf31ebIVL9oXuRdACnOIA)
 
 We are a group of open-source enthusiasts who are passionate about cloud-native message queues. We have witnessed and tackled the challenges of message queue infrastructure in large internet and cloud computing companies. Now we hope to explore with the broad developer community, based on cloud-native technology, to reshape this key area and explore more possibilities of cloud-native message queues.
@@ -52,4 +52,4 @@ There are some awesome technical advantages of our cloud-native solution:
 * 🚀 Second-level partition migration without data duplication.
 * 🧙 Stateless Broker, offloading data to S3, enabling computation using Spot instances. 
 
-Welcome to scan the QR code to join our technical discussion group, where you can exchange experiences with tech experts, share insights, and collectively explore the forefront of technology.
+Welcome to join our technical discussion group, where you can exchange experiences with tech experts, share insights, and collectively explore the forefront of technology.
