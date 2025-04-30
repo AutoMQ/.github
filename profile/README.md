@@ -27,7 +27,7 @@
   🔥&nbsp <a
     href="https://www.automq.com/docs/automq-cloud/getting-started/install-byoc-environment/aws/install-env-from-marketplace"
     target="_blank"
-  ><b>Free trail of AutoMQ Business Edition</b></a>&nbsp&nbsp&nbsp
+  ><b>Free trail of AutoMQ Enterprise Edition</b></a>&nbsp&nbsp&nbsp
   📑&nbsp <a
     href="https://www.automq.com/docs"
     target="_blank"
