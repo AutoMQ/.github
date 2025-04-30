@@ -19,17 +19,17 @@
       srcset="https://image.automq.com/resource/profile/automq_logo.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://image.automq.com/resource/profile/automq_logo.svg" alt="AutoMQ - 引领消息和流存储走向云原生时代" />
+    <img src="https://image.automq.com/resource/profile/automq_logo.svg" alt="AutoMQ - A stateless Kafka® on S3, offering 10x cost savings and scaling in seconds." />
   </picture>
 </p>
 
 <p align="center">
   🔥&nbsp <a
-    href="https://www.automq.com/quick-start#Cloud?utm_source=github_automq_cloud"
+    href="https://www.automq.com/docs/automq-cloud/getting-started/install-byoc-environment/aws/install-env-from-marketplace"
     target="_blank"
   ><b>Free trail of AutoMQ Business Edition</b></a>&nbsp&nbsp&nbsp
   📑&nbsp <a
-    href="https://docs.automq.com/docs/automq-opensource/HSiEwHVfdiO7rWk34vKcVvcvn2Z?utm_source=github"
+    href="https://www.automq.com/docs"
     target="_blank"
   ><b>Documentation</b></a>
 
@@ -42,12 +42,10 @@
 
 We are a group of open-source enthusiasts who are passionate about cloud-native message queues. We have witnessed and tackled the challenges of message queue infrastructure in large internet and cloud computing companies. Now we hope to explore with the broad developer community, based on cloud-native technology, to reshape this key area and explore more possibilities of cloud-native message queues.
 
-Recently, we open-sourced two cloud-native projects: AutoMQ for Kafka and AutoMQ for RocketMQ.
-* [AutoMQ Kafka](https://github.com/AutoMQ/automq-for-kafka): A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%.
-* [AutoMQ RocketMQ](https://github.com/AutoMQ/automq-for-rocketmq): A cloud native implementation for Apache RocketMQ 5.0.
+Our core product, [AutoMQ](https://github.com/AutoMQ/automq/), is a stateless Kafka alternative that operates on S3 or any S3-compatible storage like MinIO. It addresses two main issues with Apache Kafka: the difficulty of scaling Kafka clusters due to the stateful nature of its brokers, which requires complex data movement and partition reassignment, and the high costs of hosting Kafka in the cloud, including expensive EBS storage, cross-AZ traffic, and significant over-provisioning due to limited scalability.
 
 There are some awesome technical advantages of our cloud-native solution:
-* 🍿 100% protocol compatible with Apache Kafka and RocketMQ.
+* 🍿 100% protocol compatible with Apache Kafka.
 * 🌈 Supports minute-level elasticity, built-in elasticity, and continuous traffic rebalancing components.
 * 🚀 Second-level partition migration without data duplication.
 * 🧙 Stateless Broker, offloading data to S3, enabling computation using Spot instances. 
