@@ -10,17 +10,7 @@
 -->
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://image.automq.com/20240313bot/white-automq-logo.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://image.automq.com/resource/profile/automq_logo.svg"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://image.automq.com/resource/profile/automq_logo.svg" alt="AutoMQ - A stateless Kafka® on S3, offering 10x cost savings and scaling in seconds." />
-  </picture>
+  <img src="https://github.com/user-attachments/assets/506ac096-a199-4925-a922-a0dd221e715a" alt="AutoMQ - A stateless Kafka® on S3, offering 10x cost savings and scaling in seconds." />
 </p>
 
 <p align="center">
