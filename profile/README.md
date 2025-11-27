@@ -28,7 +28,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/automq)](https://www.linkedin.com/company/automq)
 [![](https://img.shields.io/badge/-%20Wechat%20-red?style=social&logo=discourse)](https://image.automq.com/20240123bot/d2pVkN.png)
-[![](https://badgen.net/badge/Slack/Join%20AutoMQ/0abd59?icon=slack)](https://join.slack.com/t/automq/shared_invite/zt-29h17vye9-thf31ebIVL9oXuRdACnOIA)
+[![](https://badgen.net/badge/Slack/Join%20AutoMQ/0abd59?icon=slack)](https://go.automq.com/slack)
 
 We are a group of open-source enthusiasts who are passionate about cloud-native message queues. We have witnessed and tackled the challenges of message queue infrastructure in large internet and cloud computing companies. Now we hope to explore with the broad developer community, based on cloud-native technology, to reshape this key area and explore more possibilities of cloud-native message queues.
 
